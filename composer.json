@@ -1,0 +1,11 @@
+{
+    "name": "document_list/cli",
+    "description": "Refactored code from document_list.php",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}

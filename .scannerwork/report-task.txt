@@ -1,0 +1,6 @@
+projectKey=document_list_refactored
+serverUrl=http://localhost:9000
+serverVersion=10.5.0.89998
+dashboardUrl=http://localhost:9000/dashboard?id=document_list_refactored
+ceTaskId=a81f53ee-a49f-44a0-8a2b-1d2f8eaf7fcf
+ceTaskUrl=http://localhost:9000/api/ce/task?id=a81f53ee-a49f-44a0-8a2b-1d2f8eaf7fcf
