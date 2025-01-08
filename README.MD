@@ -1,5 +1,3 @@
-## Refactoring
-
 ## Prerequisites
 
 Ensure the following software is installed on your computer:
@@ -7,13 +5,13 @@ Ensure the following software is installed on your computer:
 - Composer
 
 ## Project Setup and Testing
-
-```bash
 composer install
 composer dump-autoload
 cd public
 php index.php invoice 1 12500
+
 ########################################################################
+## Refactoring
 
 Task: I had to refactor the following PHP code using modern PHP solutions.
 In my solution, I aimed to adhere to clean code principles,
