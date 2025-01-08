@@ -13,9 +13,11 @@ composer install
 composer dump-autoload
 cd public
 php index.php invoice 1 12500
+########################################################################
 
-
-Task: I had to refactor the following PHP code using modern PHP solutions. In my solution, I aimed to adhere to clean code principles, with a special focus on SOLID principles. 
+Task: I had to refactor the following PHP code using modern PHP solutions.
+In my solution, I aimed to adhere to clean code principles,
+with a special focus on SOLID principles. 
 
 PHP code:
 
